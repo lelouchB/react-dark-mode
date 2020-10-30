@@ -1,5 +1,5 @@
 # Dark Mode in React with Chakra UI example
-
+![GIF](https://i.imgur.com/NnN3l2m.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
