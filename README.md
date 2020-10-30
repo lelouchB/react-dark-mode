@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Dark Mode in React with Chakra UI example
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
